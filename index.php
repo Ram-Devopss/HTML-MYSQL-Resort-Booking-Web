@@ -84,7 +84,7 @@ session_start();
               <a href="books.php" class="nav-link">Books</a>
             </li>
             <li class="nav-item">
-              <a href="contact.html" class="nav-link">Contact</a>
+              <a href="admin.php" class="nav-link">Admin</a>
             </li>
           </ul>
         </div>';
@@ -122,7 +122,7 @@ session_start();
               <a href="blog.html" class="nav-link">Blog</a>
             </li>
             <li class="nav-item">
-              <a href="contact.html" class="nav-link">Contact</a>
+              <a href="admin.php" class="nav-link">Admin</a>
             </li>
           </ul>
         </div>
