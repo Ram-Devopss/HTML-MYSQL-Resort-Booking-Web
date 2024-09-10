@@ -1,4 +1,11 @@
 # HTML-MYSQL-Resort-Booking-Web
+
+admin
+-------
+
+email : admin
+password : admin@123
+
 Crafted by a Skilled Developer – Your Dream Resort Booking Experience!
 💻 Developed with Expertise: This interactive resort booking website is meticulously crafted using HTML, CSS, Bootstrap, and MySQL to deliver a seamless and visually stunning experience. Every aspect of the site reflects a dedication to quality and user satisfaction.
 
